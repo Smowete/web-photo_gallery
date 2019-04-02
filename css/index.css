@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#main-logo {
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+    color: white;
+    text-transform: none;
+}
